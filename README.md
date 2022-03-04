@@ -9,3 +9,6 @@ Create function *switch_case*. Input: string, output: string in which lowercase 
 
 **Day 3**
 Create function *reverse_string*. Input: string, output: string reversed.
+
+**Day 4**
+Create function *gerund_infinitive*. Input: gerund (verb+`ing`), output: infinitive (`to `+verb)
