@@ -1,5 +1,5 @@
 # 31days-of-coding
-*Spring challenge by datascientistdiarypl on Instagram*
+*Spring challenge by datascientistdiarypl on Instagram, from 1st to 31st of March 2022 (without weekends)*
 
 **Day 1**
 Create function *lowercase*. Input: string, output: string in lowercase. 
