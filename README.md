@@ -12,3 +12,9 @@ Create function *reverse_string*. Input: string, output: string reversed.
 
 **Day 4**
 Create function *gerund_infinitive*. Input: gerund (verb+`ing`), output: infinitive (`to `+verb)
+
+**Day 5&6**
+Weekend - break.
+
+**Day 7**
+Create function *capital_indexes*. Input: string, output: list of indexes where uppercase letters are.
