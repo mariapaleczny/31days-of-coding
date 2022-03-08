@@ -18,3 +18,7 @@ Weekend - break.
 
 **Day 7**
 Create function *capital_indexes*. Input: string, output: list of indexes where uppercase letters are.
+
+**Day 8**
+Create function *womensday*. Ask for a name and if it ends with "a" print wishes.
+
