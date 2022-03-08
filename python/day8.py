@@ -1,10 +1,14 @@
-def womensday(s: str) -> str:
+def womensday() -> str:
     wish = "Wszystkiego najlepszego {}o!"
-    if s[-1] == "a":
-        return wish.format(s[:-1])
+    name = input("Wprowadź swoje imię: ")
+    if name[-1] == "a":
+        return wish.format(name[:-1])
     else:
-        return 'Życzenia będą w czwartek :)'
+        name_other = input("Wprowadź imię bliskiej Ci kobiety: ")
+        if name_other[-1] == "a":
+            return "Idź i powiedz: \"" + wish.format(name_other[:-1]) + "\""
+        else:
+            return "Niemożliwe! Być może archiwa są niekompletne."
 
 
-print(womensday("Maria"))
-print(womensday("Ryszard"))
+print(womensday())
