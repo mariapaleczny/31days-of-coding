@@ -25,3 +25,5 @@ Create function *womensday*. Ask for a name and if it ends with "a" print wishes
 **Day 9**
 Create function *mid*. Input: string, output: if number of letters is odd middle letter, else empty string.
 
+**Day 9**
+Create generator of funny male names.
