@@ -27,3 +27,12 @@ Create function *mid*. Input: string, output: if number of letters is odd middle
 
 **Day 10**
 Create generator of funny male names.
+
+**Day 11**
+Create function *is_anagram*. Input: two strings, output: true if inputs are anagrams, false otherwise.
+
+**Day 12&13**
+Weekend - break.
+
+**Day 14**
+Create function *largest_difference*. Input: list of numbers, output: the difference between minimum and maximum of the list.
