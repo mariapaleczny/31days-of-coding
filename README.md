@@ -36,3 +36,6 @@ Weekend - break.
 
 **Day 14**
 Create function *largest_difference*. Input: list of numbers, output: the difference between minimum and maximum of the list.
+
+**Day 15**
+Create function *add_dots*. Input: string, output: given string with dots between each letter.
