@@ -39,3 +39,6 @@ Create function *largest_difference*. Input: list of numbers, output: the differ
 
 **Day 15**
 Create function *add_dots*. Input: string, output: given string with dots between each letter.
+
+**Day 16**
+Create function *is_palindrome*. Input: string, output: true if the input is a palindrome, false otherwise.
