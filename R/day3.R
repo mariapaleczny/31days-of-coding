@@ -3,7 +3,7 @@ reverse_string = function(s){
   for (i in strsplit(s, split = "")[[1]]){
     reversed = paste(i, reversed, sep ="")
   }
-  print(reversed)
+  return ( reversed )
   }
 
-reverse_string("I did, did I?...")
+#print(reverse_string("I did, did I?..."))
