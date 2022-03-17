@@ -42,3 +42,6 @@ Create function *add_dots*. Input: string, output: given string with dots betwee
 
 **Day 16**
 Create function *is_palindrome*. Input: string, output: true if the input is a palindrome, false otherwise.
+
+**Day 17**
+Create function *calculate_factorial*. Input: non-negative integer, output: factorial of the input.
