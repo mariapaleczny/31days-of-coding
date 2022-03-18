@@ -12,7 +12,4 @@ calculate_factorial = function(n){
   }
 }
 
-
-> calculate_factorial(5)==120
-[1] TRUE
-
+calculate_factorial(5)==120
