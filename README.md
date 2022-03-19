@@ -45,3 +45,6 @@ Create function *is_palindrome*. Input: string, output: true if the input is a p
 
 **Day 17**
 Create function *calculate_factorial*. Input: non-negative integer, output: factorial of the input.
+
+**Day 18**
+Create function *all_equal*. Input: list, output: true if all list elements are equal, false otherwise.
