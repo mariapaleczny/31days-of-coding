@@ -48,3 +48,9 @@ Create function *calculate_factorial*. Input: non-negative integer, output: fact
 
 **Day 18**
 Create function *all_equal*. Input: list, output: true if all list elements are equal, false otherwise.
+
+**Day 19&20**
+Weekend - break.
+
+**Day 21**
+Create function *move_zero*. Input: list, output: list with all zeros moved to its end.
