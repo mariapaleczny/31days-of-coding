@@ -54,3 +54,9 @@ Weekend - break.
 
 **Day 21**
 Create function *move_zero*. Input: list, output: list with all zeros moved to its end.
+
+**Day 22**
+Create function *perfectly_balanced*. Input: string, output: check if number of x's and y's is equal.
+
+**Day 23**
+Create function *is_ugly*. Input: int, output: check if the number is ugly - its only prime factors are 2, 3 or 5.
