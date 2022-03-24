@@ -60,3 +60,6 @@ Create function *perfectly_balanced*. Input: string, output: check if number of 
 
 **Day 23**
 Create function *is_ugly*. Input: int, output: check if the number is ugly - its only prime factors are 2, 3 or 5.
+
+**Day 24**
+Create function *is_geometric*. Input: list of numbers, output: check whether a given sequence is geometric.
