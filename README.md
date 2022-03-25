@@ -63,3 +63,6 @@ Create function *is_ugly*. Input: int, output: check if the number is ugly - its
 
 **Day 24**
 Create function *is_geometric*. Input: list of numbers, output: check whether a given sequence is geometric.
+
+**Day 24**
+Return the Fibonacci sequence from zero to *n* given by user.
