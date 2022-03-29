@@ -72,3 +72,6 @@ Weekend - break.
 
 **Day 28**
 Create function *digit_adder*. Input: int, output: add one to each digit - e.g. transform 998 to 10109.
+
+**Day 29**
+Create function *additive_persistence*. Input: int, output: [additive persistence](https://mathworld.wolfram.com/AdditivePersistence.html) of the input.
